@@ -32,7 +32,7 @@ Visualization tool: Tableau Public 2021.1 . [Tableau public](https://public.tabl
 
 
 ### Tableau Analysis
-[Link to Tableau visualization](https://public.tableau.com/profile/aisha.syed#!/vizhome/NYCCitiBikeshareAug2019Analysis/NYCBikesharingAnalysis?publish=yes)
+[Link to Tableau visualization](https://public.tableau.com/profile/aisha.syed#!/vizhome/NYCCitiBikeshareAug2019Analysis/NYCBikesharingAnalysis)
 
 ## Results:
 1. Checkout Times by Users:  Based on this visualization we can conclude most of the checkouts are from 5 to 25 minutes.
